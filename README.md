@@ -6,7 +6,7 @@
   <img src="Img/SSQAutoGif.gif" alt="Master">
 </p>
 
-## Example Of Splunk Search Query And Results With Python
+## Example Of Splunk Search Query With Python And Splunk Python SDK
 
 ## installation:
 ➜  ~ git clone https://github.com/AmirHoseinTangsiriNET/SSQAuto/
