@@ -8,15 +8,12 @@
 ## installation:
 ➜  ~ git clone https://github.com/AmirHoseinTangsiriNET/SSQAuto/
 
-➜  ~ cd SSQAuto/SSQAuto
-
-➜  ~ Linux Usage: python3 SSQAuto.py [Splunk Server IPAddress] [UserName] [Password]
-➜  ~ Exaple: python3 SSQAuto.py 127.0.0.1 admin admin12345 
-
-➜  ~ Windows Usage: py SSQAuto.py [Splunk Server IPAddress] [UserName] [Password]
-➜  ~ Exaple: py SSQAuto.py 127.0.0.1 admin admin12345
+➜  ~ Windows: cd \SSQAuto\SSQAuto
+➜  ~ Windows: py SSQAuto.py
+...
+➜  ~ Linux: cd /SSQAuto/SSQAuto
+➜  ~ Linux: python3 SSQAuto.py
 
 ## Prerequisite
 * Python 3
 * Splunk SDK Python Module
-* sys Python Module
