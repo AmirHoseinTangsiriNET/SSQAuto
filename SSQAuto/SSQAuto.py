@@ -3,9 +3,13 @@ from __future__ import print_function
 import splunklib.client as client
 import splunklib.results as results
 
-HOST = "localhost"
-PORT = 8089
+#Splunk Server IP Address Or HostName
+HOST = "127.0.0.1"
+#Splunk Mgmt Port (Default = 8089)
+PORT = "8089"
+#Splunk UserName
 USERNAME = "admin"
+#Splunk Password
 PASSWORD = "TOSINSO12345"
 
 
