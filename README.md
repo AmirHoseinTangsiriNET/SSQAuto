@@ -4,7 +4,7 @@
 ![MIT License](https://img.shields.io/static/v1?label=License&message=MIT&color=RED)
 
 <p align="center">
-  <video src="Video/SSQAutoVideo.mp4" alt="Master">
+  <video src="Video/SSQAutoVideo.mp4" width=180/>
 </p>
 
 ## Example Of Splunk Search Query And Results With Python
