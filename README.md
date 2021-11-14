@@ -9,9 +9,13 @@
 ➜  ~ git clone https://github.com/AmirHoseinTangsiriNET/SSQAuto/
 
 ➜  ~ Windows: cd \SSQAuto\SSQAuto
+
 ➜  ~ Windows: py SSQAuto.py
+
 ...
+
 ➜  ~ Linux: cd /SSQAuto/SSQAuto
+
 ➜  ~ Linux: python3 SSQAuto.py
 
 ## Prerequisite
