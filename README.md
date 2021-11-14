@@ -13,7 +13,7 @@
 
 ...
 
-➜  ~ Windows: cd \SSQAuto\SSQAuto
+➜  ~ Windows: cd SSQAuto\SSQAuto
 
 ➜  ~ Windows: py SSQAuto.py
 
